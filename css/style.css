@@ -37,6 +37,8 @@ body{
 .left-section {
     width: 100%;
     max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
     background-image: url(../img/left-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
